@@ -1,0 +1,31 @@
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+
+# Certificates — NEVER commit real certs
+certs/
+*.pem
+*.key
+*.p12
+*.pfx
+!samples/*.pem   # placeholder dummy certs for documentation
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.venv/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store

@@ -1,0 +1,38 @@
+{
+  "acquirerCountryCode": "840",
+  "acquiringBin": "408999",
+  "amount": "124.05",
+  "businessApplicationId": "AA",
+  "cardAcceptor": {
+    "address": {
+      "country": "USA",
+      "county": "081",
+      "state": "CA",
+      "zipCode": "94404"
+    },
+    "idCode": "CA-IDCode-77765",
+    "name": "Visa Inc. USA-Foster City",
+    "terminalId": "TID-9999"
+  },
+  "localTransactionDateTime": "2024-01-01T00:00:00",
+  "merchantCategoryCode": "6012",
+  "pointOfServiceData": {
+    "motoECIIndicator": "0",
+    "panEntryMode": "90",
+    "posConditionCode": "00"
+  },
+  "recipientName": "Mohammed Qasim",
+  "recipientPrimaryAccountNumber": "4957030420210454",
+  "retrievalReferenceNumber": "412770451020",
+  "senderAccountNumber": "4027290082585059",
+  "senderAddress": "901 Metro Center Blvd",
+  "senderCity": "Foster City",
+  "senderCountryCode": "USA",
+  "senderName": "Mohammed Qasim",
+  "senderReference": "",
+  "senderStateCode": "CA",
+  "sourceOfFundsCode": "05",
+  "systemsTraceAuditNumber": "451018",
+  "transactionCurrencyCode": "USD",
+  "transactionIdentifier": "381228649430015"
+}
